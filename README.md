@@ -1,6 +1,5 @@
 # 🛋️ IKEA India – Repeat Purchase Diagnosis
-project-preview.png
-
+./images/project-preview.png
 > A Business Analysis case study exploring why a significant share of first-time IKEA India customers do not return for a second purchase and how to prioritize further research before proposing solutions.
 
 ---
