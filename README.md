@@ -100,7 +100,7 @@ GitHub:
 https://github.com/rohitnair-ba
 
 LinkedIn:
-linkedin.com/in/rohit-nair-hyperlink
+www.linkedin.com/in/rohit-nair-hyperlink
 
 ---
 
